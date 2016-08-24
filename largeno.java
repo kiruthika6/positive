@@ -6,12 +6,8 @@ public class largeno {
 
 	
 	public static void main(String[] args) {
-		int a,b,c;
-		 Scanner s=new Scanner(System.in);
-		System.out.println("enter number:");
-		a=s.nextInt();
-		b=s.nextInt();
-		c=s.nextInt();
+		int a = 67,b = 78,c = 45;
+		
 		if(a>b){
 			System.out.println(a);
 		}
